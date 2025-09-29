@@ -1,0 +1,2 @@
+# IBM-Data-Dashboard
+A dashboard created using IBM Data tools (such as IBM Cognos Analytics, IBM Db2, or IBM Watson) provides an interactive platform for visualizing, analyzing, and monitoring key business data in real time. It consolidates information from multiple data sources into a single interface, enabling users to track performance metrics, identify trends, and make data-driven decisions quickly.
